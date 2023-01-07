@@ -3,11 +3,13 @@
 
 # How to use
 You need both pyautogui and pynput modules installed in your computer.
-For that just run: 
+For that just run:  
+
 ```pip install pyautogui```
 and
-```pip install pynput```
-After that you ready to use the autoclicker.
+```pip install pynput```  
+
+After that you are ready to use the autoclicker.
 Simply run the minecraft_autoclicker.py and after 5 seconds the mouse right click button will be spammed for maximum fishing efficiency.
 To exit the program, simply click Esc.
 
