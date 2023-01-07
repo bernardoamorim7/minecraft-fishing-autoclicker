@@ -1,7 +1,7 @@
 # Minecraft Fishing Autoclicker
 ## A simple Minecraft fishing autoclicker for AFK fishing.
 
-# How to use:
+# How to use
 Simply run the minecraft_autoclicker.py and after 5 seconds the mouse right click button will be spammed for maximum fishing efficiency.
 To exit the program, simply click Esc.
 
