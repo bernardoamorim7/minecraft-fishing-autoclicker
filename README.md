@@ -9,7 +9,8 @@ For that just run:
 and
 ```pip install pynput```  
 
-After that you are ready to use the autoclicker.
+After that you are ready to use the autoclicker.  
+
 Simply run the minecraft_autoclicker.py and after 5 seconds the mouse right click button will be spammed for maximum fishing efficiency.
 To exit the program, simply click Esc.
 
